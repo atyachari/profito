@@ -13,3 +13,9 @@ profito deals with utilizing the power of small scale social influencers to incr
 - web3
 - ethereumjs-tx
 - ethereumjs-util
+
+## Contributors
+* <a href="https://github.com/dbads">Deepak Bharti</a>
+* <a href="https://github.com/cms118">Shivam Kumar</a>
+* <a href="https://github.com/surajmall">Suraj Kumar Mall</a>
+* <a href="https://github.com/atyachari">Vipul Lohani</a>
